@@ -1,0 +1,13 @@
+# Project Title
+
+**AfroTaste – The Taste of African Dishes**
+
+# Project Idea
+
+**AfroTaste** will be a modern and responsive marketing website for a local African restaurant. The website will show traditional African dishes, drinks and the restaurant's services.
+
+Visitors will be able to explore popular meals, view prices, learn more about the restaurant and contact the restaurant for orders or inquiries.
+
+The website will include a **hero section, food menu, about section and contact section**. It will also be designed to work well on both computers and mobile devices.
+
+The goal of AfroTaste is to **promote African dishes online, attract new customers, and give the restaurant a strong digital presence**.

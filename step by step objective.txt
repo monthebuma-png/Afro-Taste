@@ -1,0 +1,18 @@
+Website Squeleton
+Create a new website that highlights the great features of the product 
+and provides in depth information about each feature.
+ The pages should include: 
+- Homepage with photograph and high-level overview 
+- Feature pages linked from Homepage with more details
+
+Sign Up Page
+Just because you Made a website,
+ doesn’t automatically mean people will purchase the product.
+ Create a landing page as part of the marketing website that 
+drives people to sign up with a form for more information
+
+Create Contact component
+Create a new page with a form allowing people to contact 
+the company if interested in the product.
+ Include a “call to action” link at the bottom of every page on
+ the website except for the contact page itself which links to the contact page.
