@@ -87,3 +87,21 @@ button:hover {
   text-decoration: none;
 }
 
+.cta {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 40px 20px;
+  text-align: center;
+  background: #f3e2ce;
+}
+
+.cta a {
+  padding: 12px 25px;
+  background: #b85c25;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
